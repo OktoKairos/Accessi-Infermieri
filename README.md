@@ -1,2 +1,2 @@
-# Accessi-Inferrmieri
+# Accessi-Infermieri
 App per gestione accessi
